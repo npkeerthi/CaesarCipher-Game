@@ -4,8 +4,8 @@
 
 Pick a message to write to your friend. 
 
-Write down your encoded message using your shifted alphabet. ...Use Your secret number 🤫
+Write down your encoded message using your shift number....A secret number 🤫
 
 Give your friend the encoded message and tell them the key.
 
-And send this to your friend to decode it just by sharing your secret code
+And send this to your friend to decode it just by sharing your secret code with number.
